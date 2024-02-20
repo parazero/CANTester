@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.2060945480/CWD/delimiter=;
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.2060945480/CWD/operation=replace
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.2060945480/CWD/value=C\:\\Users\\gilad\\Downloads\\STM32MiniCar-master\\CANTester\\Debug
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.2060945480/PWD/delimiter=;
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.2060945480/PWD/operation=replace
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.2060945480/PWD/value=C\:\\Users\\gilad\\Downloads\\STM32MiniCar-master\\CANTester\\Debug
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.2060945480/append=true
+environment/project/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.2060945480/appendContributed=true
